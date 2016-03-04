@@ -1,0 +1,22 @@
+
+body {
+	background-color: #fff;
+	font-family: Stencil;
+	color: #000;
+}
+
+
+.countdown_loader img {
+	width: 300px;
+	height: 220px;
+}
+
+#output {
+	padding: 5px;
+	margin-right: 10px;
+	border-bottom: 2px solid green;
+	width: 290px;
+	color: grey;
+	font-family: calibri;
+	margin-top: -5px;
+}
